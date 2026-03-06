@@ -6,6 +6,8 @@ CineStream is a movie discovery web application built using React. The applicati
 
 The goal of this project is to demonstrate modern front-end development using React, component-based architecture, API integration, and responsive UI design.
 
+Live Server: https://cinestream-flax-seven.vercel.app/
+
 ---
 
 ## Features
